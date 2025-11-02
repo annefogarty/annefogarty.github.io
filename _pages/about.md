@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year economics PhD student at the University of California, Berkeley, supported by the NSF Graduate Research Fellowship. My research interests span industrial organization and public finance. 
+I am a second year economics PhD student at the University of California, Berkeley. My research interests span industrial organization and public finance. 
 
 
 Previously, I was a predoctoral research fellow at the Harvard Kennedy School in the [Health Inequality Lab](https://www.healthinequalitylab.org/) where I contributed to projects examining the determinants and consequences of health disparities in the United States. 
